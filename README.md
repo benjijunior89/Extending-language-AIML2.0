@@ -5,7 +5,7 @@ New functionalities are incorporated into the language in addition to the lexica
 ## Interpreter improved with the new features.
 
 The expressivity of the patterns of the rules was amplified with () [] +:
-  () -> a word may be hidden or not
+  \li () -> a word may be hidden or not
   [] -> a word has to be chosen from those that appear in the square brackets
   r -> it is a prefix/suffix or both.
 
